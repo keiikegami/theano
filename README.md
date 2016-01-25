@@ -1,5 +1,13 @@
 # theanoを使ってDCDP
 
+##やったこと
+
+theanoを使う練習をしました。主なもの二つを下に貼ります。
+
+-[mostly likelihood estimation](https://github.com/keiikegami/theano/blob/master/MLE.ipynb)
+
+-[multinomial logit](https://github.com/keiikegami/theano/blob/master/multinomial%20logit.ipynb)
+
 ##やること
 
 [消費生活に関するパネルデータ](http://www.kakeiken.or.jp/jp/index.html)
